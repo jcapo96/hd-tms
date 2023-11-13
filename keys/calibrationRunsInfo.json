@@ -1,0 +1,28 @@
+{"LAr_2023":[
+    {"CalibSetNumber":"LArTGrad-1", "Type":"Cal", "Selection":"GOOD"},
+    {"CalibSetNumber":"LArTGrad-2", "Type":"Cal", "Selection":"GOOD"},
+    {"CalibSetNumber":"LArTGrad-3", "Type":"Cal", "Selection":"GOOD"},
+    {"CalibSetNumber":"LArTGrad-4", "Type":"Cal", "Selection":"GOOD"},
+    {"CalibSetNumber":"LArTGrad-2.1", "Type":"Cal", "Selection":"GOOD"}
+],
+"LN2_2022":[
+    {"CalibSetNumber":"TGrad-1", "Type":"Cal", "Selection":"GOOD", "Use":"FIRST_RUN"},
+    {"CalibSetNumber":"TGrad-2", "Type":"Cal", "Selection":"GOOD", "Use":"FIRST_RUN"},
+    {"CalibSetNumber":"TGrad-3", "Type":"Cal", "Selection":"GOOD", "Use":"FIRST_RUN"},
+    {"CalibSetNumber":"TGrad-4", "Type":"Cal", "Selection":"GOOD", "Use":"FIRST_RUN"},
+    {"CalibSetNumber":"TGrad-2.1", "Type":"Cal", "Use":"FIRST_RUN"}
+],
+"LN2_2023":[
+    {"CalibSetNumber":"TGrad-1", "Type":"Cal", "Selection":"GOOD", "Use":"SECOND_RUN"},
+    {"CalibSetNumber":"TGrad-2", "Type":"Cal", "Selection":"GOOD", "Use":"SECOND_RUN"},
+    {"CalibSetNumber":"TGrad-3", "Type":"Cal", "Selection":"GOOD", "Use":"SECOND_RUN"},
+    {"CalibSetNumber":"TGrad-4", "Type":"Cal", "Selection":"GOOD", "Use":"SECOND_RUN"},
+    {"CalibSetNumber":"TGrad-2.1", "Type":"Cal", "Selection":"SECOND"}
+],
+"raised_sensors":{
+    "1":["39652", "40525", "39657"],
+    "2":["39647", "39629", "39625"],
+    "3":["39622", "40533", "39613"],
+    "4":["39610", "39666", "39661"]
+    }
+}
