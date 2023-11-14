@@ -11,12 +11,10 @@ LArTgrad = TreeMethod(
             calibration_runs["LAr_2023"],
             calibration_runs["raised_sensors"]
 )
-
 LN2Tgrad_2022 = TreeMethod(
             calibration_runs["LN2_2022"],
             calibration_runs["raised_sensors"]
 )
-
 LN2Tgrad_2023 = TreeMethod(
             calibration_runs["LN2_2023"],
             calibration_runs["raised_sensors"]
